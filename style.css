@@ -1,43 +1,48 @@
-body{
-    
-    
+body {}
+
+.h {
+    background-color: #F7F4ED;
 }
 
- .h{
-    background-color:#F7F4ED;
- }
- .main-div{
+.main-div {
     background-image: linear-gradient(to left, #FFA90E, #FAEA9E);
- }
- .p{
-    font-family:  Georgia, 'Times New Roman', Times, serif;
+}
+
+.p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 70px;
- }
- .p2{
+}
+
+.p2 {
     display: block;
-    padding-top:0px ;
-    margin-top: 0px;
- }
- .b{
+    
+}
+.b {
     border-radius: 50px;
     background-color: black;
     color: white;
     width: 150px;
     height: 38px;
- }
- .div2{
-    display: flex;
-    gap:200px ;
-  
- }
- .img{
-    width: 360px;
-    height: 500px;
-   
-    
- }
-.child3{
-    margin-left:300px ;
-    width: 500px;
 }
-.child4{}
+
+.div2 {
+    display: flex;
+    gap: 250px;
+    padding-top: 100px;
+
+}
+
+.img {
+    width: 260px;
+    height: 400px;
+
+
+}
+
+.child3 {
+    margin-left: 400px;
+    width: 500px;
+    height: 400px;
+}
+
+.child4 {}
