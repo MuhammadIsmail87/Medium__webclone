@@ -11,7 +11,12 @@ body{
  }
  .p{
     font-family:  Georgia, 'Times New Roman', Times, serif;
-    font-size: 80px;
+    font-size: 70px;
+ }
+ .p2{
+    display: block;
+    padding-top:0px ;
+    margin-top: 0px;
  }
  .b{
     border-radius: 50px;
@@ -22,15 +27,17 @@ body{
  }
  .div2{
     display: flex;
-    gap: 100px;
+    gap:200px ;
   
  }
  .img{
     width: 360px;
     height: 500px;
-    margin-left: 0px;
+   
     
  }
 .child3{
-    margin-left:250px ;
+    margin-left:300px ;
+    width: 500px;
 }
+.child4{}
