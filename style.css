@@ -4,10 +4,6 @@ body {}
     background-color: #F7F4ED;
 }
 
-.main-div {
-    background-image: linear-gradient(to left, #FFA90E, #FAEA9E);
-}
-
 .p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 70px;
@@ -31,6 +27,7 @@ body {}
     gap: 250px;
     padding-top: 100px;
 
+
 }
 
 .img {
@@ -47,17 +44,19 @@ body {}
     margin-bottom: 100px;
 }
 
-.list{
-   list-style: none;
+.list {
+    list-style: none;
 }
-.a{
+
+.a {
     text-decoration: none;
     color: black;
     font-size: small;
 }
-.list{
+
+.list {
     display: flex;
     justify-content: center;
     gap: 20px;
-    
+
 }
